@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Careem Pay API'
-copyright = '2024, Muayed'
-author = 'Muayed'
+project = 'Mercury Payment'
+copyright = '2024, Cortez'
+author = 'Cortez'
 
 release = '0.1'
 version = '0.1.0'
