@@ -29,3 +29,8 @@ Whether you're building tools for your team or automating financial operations, 
 If you have questions or need assistance, feel free to reach out to us at api@mercury.com.
 
 Let’s get started!
+
+.. toctree::
+   :maxdepth: 2
+
+   configuration/index
