@@ -33,4 +33,6 @@ Let’s get started!
 .. toctree::
    :maxdepth: 2
 
+   uae-banking
    configuration/index
+
